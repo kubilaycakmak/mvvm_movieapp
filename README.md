@@ -1,6 +1,7 @@
 # mvvm_movieapp
 
-A new Flutter project.
+The White Screen
+![alt text](https://cdn.dribbble.com/users/1619633/screenshots/15248148/downloads/Cinema%20P1%20Dribbble.png)
 
 ## Getting Started
 
